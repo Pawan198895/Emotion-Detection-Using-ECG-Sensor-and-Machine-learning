@@ -27,3 +27,12 @@ Support Vector Machine (SVM) classifier achieves high accuracy in emotion
 classification. The project's findings demonstrate the potential of using ECG signals 
 to identify emotions and present fresh research directions.
 #Keywords: ECG, SVM, Analog-to-Digital Converter (ADC), Raspberry Pi
+#Problem statement:
+Emotional states can be difficult to detect and interpret accurately. Current 
+methods for emotion detection rely on subjective self-reporting or external 
+observations, which can be unreliable and imprecise. In this project, we aim to 
+develop a system for emotion detection using an ECG sensor, Analog-toDigital Converter (ADC), and Raspberry Pi. The goal is to capture the 
+electrical activity of the heart using the ECG sensor, process the data using the 
+ADC, and analyze it using the Raspberry Pi to accurately detect the emotional 
+state of the user. This system can have various applications, such as monitoring 
+mental health or providing feedback for virtual reality experiences.
